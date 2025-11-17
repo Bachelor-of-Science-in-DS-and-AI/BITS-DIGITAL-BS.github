@@ -1,5 +1,15 @@
 # BITS DIGITAL BS.github
 
+<b> Welcome to the Program! </b>
+
+Congratulations on your admission and welcome to BITS Pilani!
+
+Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
+
+As you're an enrolled student now, you should write to us at bs_dsai@bitspilani-digital.edu.in and quote your student ID number for all of your queries.
+
+#### Trimester 1
+
 | Course Code | Course Name | Instructors |
 |-----------|-----------|-----------------|
 | T1-25_BDSDF101 | Data and the World | Dr. Anita Ramachandran |
