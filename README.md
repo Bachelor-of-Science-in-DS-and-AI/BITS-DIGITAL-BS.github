@@ -1,1 +1,1 @@
-# BITS-DIGITAL-BS.github
+# BITS DIGITAL BS.github
