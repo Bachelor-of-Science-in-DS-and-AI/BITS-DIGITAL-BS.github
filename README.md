@@ -1,7 +1,7 @@
 # BITS DIGITAL BS.github
 
 | Course Code | Course Name | Instructors |
-|-----------|-----------|
+|-----------|-----------|-----------------|
 | T1-25_BDSDF101 | Data and the World | Dr. Anita Ramachandran |
 | T1-25_BDSDF112 | Writing Practice | Dr. Santosh Mahapatra |
 |  | | Dr. Spandan Bhattacharya |
