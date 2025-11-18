@@ -6,7 +6,7 @@
 
 #### **Academic Year 2025 – 2026**
 ##### **Trimester 1**  
-###### **September 2025 - December 2025**
+##### **September 2025 - December 2025**
 
 
 ---
