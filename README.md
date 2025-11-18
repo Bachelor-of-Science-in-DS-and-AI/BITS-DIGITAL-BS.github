@@ -9,6 +9,7 @@
 ##### **Data Science and Artificial Intelligence**
 
 ---
+
 </div>
 
 
@@ -22,9 +23,6 @@ Your trimester will start in September 2025 with the new student orientation web
 
 <div align="center">
 
-
-
----
 
 ### **Academic Year 2025 – 2026**
 ### **Trimester 1**  
