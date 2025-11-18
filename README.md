@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center" style="font-size: 9px; font-weight: bold;">
+<p align="center" style="font-size: 7px; font-weight: bold;">
   <I> <u>In Loving Memory of <b>Late Prof. Shan Sundar Balasubramaniam</b> whose guidance, dedication, and wisdom continue to inspire us.</u> </I>
 </p>
 
@@ -21,9 +21,7 @@
 
 <b> Welcome to the Program! </b>
 
-Congratulations on your admission and welcome to BITS Pilani!
-
-Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
+Your trimester will start in September 2025 with the new student orientation webinar scheduled on <b> September 13, 2025 </b>.
 
 
 | Sl. No. | Course Code        | Course Name                     | Credits | Course Instructors |
