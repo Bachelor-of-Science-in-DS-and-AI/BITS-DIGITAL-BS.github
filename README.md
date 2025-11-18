@@ -1,5 +1,27 @@
 # BITS DIGITAL BS.github
 
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" alt="BITS Logo" width="120">
+
+---
+
+# **Birla Institute of Technology and Science, Pilani**  
+## **Department of Data Science and Artificial Intelligence**  
+### **BS – Data Science and Artificial Intelligence**
+
+---
+
+### **Academic Year 2025 – 2026**
+### **Trimester 1**  
+
+
+---
+
+</div>
+
+
+
 <b> Welcome to the Program! </b>
 
 Congratulations on your admission and welcome to BITS Pilani!
