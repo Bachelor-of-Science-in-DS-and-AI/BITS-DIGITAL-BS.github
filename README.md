@@ -32,7 +32,7 @@ Your trimester will start in September 2025 with the new student orientation web
 
 ---
 
-<p align="center" style="font-size: 14px; font-weight: bold;">
+<p align="center" style="font-size: 12px; font-weight: bold;">
   <I> <u>In Loving Memory of <b>Late Prof. Shan Sundar Balasubramaniam</b> whose guidance, dedication, and wisdom continue to inspire us.</u> </I>
 </p>
 
