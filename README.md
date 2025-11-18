@@ -11,7 +11,7 @@
 
 ---
 
-##### In Loving Memory of <b><i> Late Prof. Shan Sundar Balasubramaniam</b></i> whose guidance, dedication, and wisdom continue to inspire us.
+###### In Loving Memory of <b><i> Late Prof. Shan Sundar Balasubramaniam</b></i> whose guidance, dedication, and wisdom continue to inspire us.
 ---
 <br>
 
