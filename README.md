@@ -1,8 +1,6 @@
 
 <div align="center">
 
-!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" alt="BITS Logo" width="120">
-
 ---
 
 # **Birla Institute of Technology and Science, Pilani**  
