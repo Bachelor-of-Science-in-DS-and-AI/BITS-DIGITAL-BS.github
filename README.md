@@ -2,7 +2,6 @@
 <div align="center">
 
 # **Birla Institute of Technology and Science, Pilani**  
-### **Department of Data Science and Artificial Intelligence**  
 #### **BS (Bachelor of Science)** - **Data Science and Artificial Intelligence**
 
 ##### **Academic Year 2025 – 2026**
