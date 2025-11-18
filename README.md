@@ -19,8 +19,6 @@ Congratulations on your admission and welcome to BITS Pilani!
 
 Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
 
-As you're an enrolled student now, you should write to us at bs_dsai@bitspilani-digital.edu.in and quote your student ID number for all of your queries.
-
 
 <div align="center">
 
