@@ -10,13 +10,6 @@
 ## **Department of Data Science and Artificial Intelligence**  
 ### **BS – Data Science and Artificial Intelligence**
 
----
-
-### **Academic Year 2025 – 2026**
-### **Trimester 1**  
-
-
----
 
 </div>
 
@@ -35,9 +28,13 @@ As you're an enrolled student now, you should write to us at bs_dsai@bitspilani-
 
 
 
-### 🎓 Academic Year 2025 – 2026
+---
 
-#### 📘 Trimester 1 – Course Structure
+### **Academic Year 2025 – 2026**
+### **Trimester 1**  
+
+
+---
 
 | Sl. No. | Course Code        | Course Name                     | Credits |  Instructors |
 |---------|---------------------|----------------------------------|---------|-------------|
