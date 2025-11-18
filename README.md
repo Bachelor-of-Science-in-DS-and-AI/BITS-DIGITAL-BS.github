@@ -13,9 +13,8 @@ As you're an enrolled student now, you should write to us at bs_dsai@bitspilani-
 
 
 
-#### Academic Year 2025 - 2026
-
-#### Trimester 1
+🎓 Academic Year 2025 – 2026
+📘 Trimester 1 – Course Structure
 
 | Sl. No. | Course Code        | Course Name                     | Credits |  Instructors |
 |---------|---------------------|----------------------------------|---------|-------------|
