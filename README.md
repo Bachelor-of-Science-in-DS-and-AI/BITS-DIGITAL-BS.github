@@ -38,7 +38,7 @@ Your trimester will start in September 2025 with the new student orientation web
 
 <hr style="height: 3px; background-color: black; border: none;">
 
-<br><br>
+<br>
 
 | Sl. No. | Course Code        | Course Name                     | Credits | Course Instructors |
 |:-------:|---------------------|---------------------------------|:-------:|---------------------|
