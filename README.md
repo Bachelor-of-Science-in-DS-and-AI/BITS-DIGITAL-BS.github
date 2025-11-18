@@ -13,12 +13,6 @@
 
 ##### In Loving Memory of <b><i> Late Prof. Shan Sundar Balasubramaniam</b></i> whose guidance, dedication, and wisdom continue to inspire us.
 
-###### <p align="center" style="font-size: 3px; font-weight: bold;">
-  <I> <u>In Loving Memory of <b>Late Prof. Shan Sundar Balasubramaniam</b> whose guidance, dedication, and wisdom continue to inspire us.</u> </I>
-</p>
-
-<hr style="height: 3px; background-color: black; border: none;">
-
 <br>
 
 <b> Welcome to the Program! </b>
