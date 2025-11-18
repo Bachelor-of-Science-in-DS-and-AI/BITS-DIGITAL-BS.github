@@ -21,7 +21,7 @@
 
 <b> Welcome to the Program! </b>
 
-##### Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
+#### Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
 
 
 | Sl. No. | Course Code        | Course Name                     | Credits | Course Instructors |
