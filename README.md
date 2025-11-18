@@ -45,4 +45,7 @@ As you're an enrolled student now, you should write to us at bs_dsai@bitspilani-
 | 5       | T1-25_BDSDF114      | Probability & Statistics         | 3       |  Dr. Y. V. K. Ravi Kumar |
 |        |       |          |        | Dr. Kota Venkata Ratnam  |
 
+
+---
+
 </div>
