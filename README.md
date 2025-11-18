@@ -14,14 +14,6 @@
 
 
 
-<b> Welcome to the Program! </b>
-
-Congratulations on your admission and welcome to BITS Pilani!
-
-Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
-
----
-
 <div align="center">
 
 
@@ -39,6 +31,13 @@ Your trimester will start in September 2025 with the new student orientation web
 <hr style="height: 3px; background-color: black; border: none;">
 
 <br>
+
+<b> Welcome to the Program! </b>
+
+Congratulations on your admission and welcome to BITS Pilani!
+
+Your trimester will start in September 2025 with the new student orientation webinar scheduled on September 13, 2025.
+
 
 | Sl. No. | Course Code        | Course Name                     | Credits | Course Instructors |
 |:-------:|---------------------|---------------------------------|:-------:|---------------------|
