@@ -40,17 +40,6 @@ Your trimester will start in September 2025 with the new student orientation web
 
 <br><br>
 
-| Sl. No. | Course Code        | Course Name                     | Credits |  Course Instructors |
-|---------|---------------------|----------------------------------|---------|-------------|
-| 1       | T1-25_BDSDF101      | Data and the World               | 3       | Dr. Anita Ramachandran |
-| 2       | T1-25_BDSDF108     | Computer Systems                  | 4       |  Late Prof. Shan Sundar Balasubramaniam |
-|       |     |                  |      |  Dr. Biju K. Raveendran Nair |
-| 3       | T1-25_BDSDF112     | Writing Practice                  | 4       |  Dr. Santosh Mahapatra |
-|        |     |                   |        | Dr. Spandan Bhattacharya  |
-| 4       | T1-25_BDSDF113     | Computer Programming              | 2       |  Dr. Jagat Sesh Challa |
-| 5       | T1-25_BDSDF114      | Probability & Statistics         | 3       |  Dr. Y. V. K. Ravi Kumar |
-|        |       |          |        | Dr. Kota Venkata Ratnam  |
-
 | Sl. No. | Course Code        | Course Name                     | Credits | Course Instructors |
 |:-------:|---------------------|---------------------------------|:-------:|---------------------|
 | **1**   | T1-25_BDSDF101      | Data and the World              | **3**   | Dr. Anita Ramachandran |
