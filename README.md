@@ -33,6 +33,18 @@ Your trimester will start in September 2025 with the new student orientation web
 
 ---
 
+<p align="center" style="font-size: 26px; font-weight: bold;">
+  <u>In Loving Memory of <b>Late Prof. Shan Sundar Balasubramaniam</b></u>
+</p>
+
+<p align="center" style="font-size: 18px;">
+  Whose guidance, dedication, and wisdom continue to inspire us.
+</p>
+
+<hr style="height: 3px; background-color: black; border: none;">
+
+<br><br>
+
 | Sl. No. | Course Code        | Course Name                     | Credits |  Instructors |
 |---------|---------------------|----------------------------------|---------|-------------|
 | 1       | T1-25_BDSDF101      | Data and the World               | 3       | Dr. Anita Ramachandran |
