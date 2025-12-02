@@ -25,7 +25,7 @@
 | **1**   | T1-25_BDSDF101      | Data and the World              | **3**   | Dr. Anita Ramachandran |
 | **2**   | T1-25_BDSDF108      | Computer Systems                | **4**   | Late Prof. Shan Sundar Balasubramaniam |
 |         |                     |                                 |         | Dr. Biju K. Raveendran Nair |
-|         |                     |                                 |         | Dr. Sunilkumar Teggihalli |
+|         |                     |                                 |         | Prof. Sunilkumar Teggihalli |
 | **3**   | T1-25_BDSDF112      | Writing Practice                | **4**   | Dr. Santosh Mahapatra |
 |         |                     |                                 |         | Dr. Spandan Bhattacharya |
 |         |                     |                                 |         | Dr. Tiwari |
